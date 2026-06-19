@@ -1,7 +1,5 @@
 # PDFToMD
 
-# Extractor PDF CLI
-
 Una herramienta de línea de comandos ágil y modular para procesar archivos PDF. Este script lee documentos locales y extrae su contenido (texto o imágenes), estructurándolo en formatos amigables y listos para ser consumidos en entornos de desarrollo, documentaciones o gestores de contenido.
 
 ## Tabla de Características
