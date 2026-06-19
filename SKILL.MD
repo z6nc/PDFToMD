@@ -5,7 +5,7 @@
 
 ---
 
-# Skill: PDF Extractor (Node.js)
+# Skill: PDFToMD
 
 Utilidad de línea de comandos (CLI) diseñada para auditar y procesar archivos PDF distribuidos mediante rutas locales o URLs remotas.
 
